@@ -8,7 +8,7 @@ Narrow Edge is a game level by Matthias "Masmblr" Peters for the open source gam
 Map Description: 
 > Embark on an adventure to a distant planet and uncover the secrets of a forgotten temple in "Narrow Edge." Crafted from scratch, this map combines unique textures, including custom edit. With a symmetrical layout reminiscent of ATCS, the map features tunnel connections, elevator access, and high-quality visuals.
 > 
-> As curious humans set foot in the temple's remains and establish a basecamp, they encounter peculiar creatures. "Narrow Edge" was created to support the "New-EDGE" project by CU|ams and Kai, and it originated as a fork of my "Edge" mod for Tremulous 1.2, showcasing the evolution of your creative vision. Join the journey and experience innovation and nostalgia intertwined in this captivating map.
+> As curious humans set foot in the temple's remains and establish a basecamp, they encounter peculiar creatures. "Narrow Edge" was created to support the "New-EDGE" project by CU|ams and Kai, and it originated as a fork of my "Edge" mod for Tremulous 1.2. Join the journey and experience innovation and nostalgia intertwined in this captivating map.
  
 * * *
 
