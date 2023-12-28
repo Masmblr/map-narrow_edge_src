@@ -152,4 +152,4 @@ For all other content, their respective licensing rules and other legal provisio
 * id Software for Quake3
 * Dark Legion Development for Tremulous
 * Team Xonotic for NetRadiant
-* Grise3 for bug fixes
+* [Grise3](https://github.com/Grise3) for bug fixes
