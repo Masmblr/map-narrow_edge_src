@@ -151,4 +151,5 @@ For all other content, their respective licensing rules and other legal provisio
 ## Special Thanks:
 * id Software for Quake3
 * Dark Legion Development for Tremulous
-* Team Xonotic for NetRadiant 
+* Team Xonotic for NetRadiant
+* Grise3 for bug fixes
