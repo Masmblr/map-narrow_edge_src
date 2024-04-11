@@ -45,8 +45,8 @@ Some textures I have drawn for the map: </br>
 [<img src="meta/preview_textures/9.jpg" width="300"/>](meta/preview_textures/9.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
 | 1.0     | 09/12/2014  | beta |
 | 2.0     | 11/12/2014  | beta |
 | 3.0     | 16/12/2014  | beta |
