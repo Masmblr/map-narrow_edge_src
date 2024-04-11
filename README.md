@@ -47,12 +47,12 @@ Some textures I have drawn for the map: </br>
 ## Version History:
 | Version: | Date:        | Status: | Release Build (.pk3):       
 | ------- | ------------- | ------: | -----------------: |
-| 1.0     | 09/12/2014  | beta | :x:        |     
-| 2.0     | 11/12/2014  | beta | :x:        |     
-| 3.0     | 16/12/2014  | beta | :x:        |     
-| 3.1     | 17/12/2014  | beta-hotfix | :x:        |     
-| 4.0     | 20/10/2015  | beta | :x:        |     
-| 5.0     | 16/06/2016  | final | [💾](https://github.com/Masmblr/map-Narrow_Edge_src/releases/) |
+| 1.0     | 09/12/2014  | beta |
+| 2.0     | 11/12/2014  | beta |
+| 3.0     | 16/12/2014  | beta |
+| 3.1     | 17/12/2014  | beta-hotfix |
+| 4.0     | 20/10/2015  | beta |
+| 5.0     | 16/06/2016  | release |
 
 ## How-To
 **Binary**:
